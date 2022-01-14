@@ -43,7 +43,7 @@ header nav a:hover {
 /*poster principal*/
 .filmePrincipal {
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50) 100%), url("/img/greyscapa.jpg");
+    background: linear-gradient(rgba(0,0,0,.30), rgba(0,0,0,.30) 100%), url("/img/greyscapa.jpg");
     height: 450px;
     background-size: cover;
     display: flex;
